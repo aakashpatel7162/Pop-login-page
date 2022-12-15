@@ -1,3 +1,5 @@
 # Pop-login-page
 
-https://codesandbox.io/s/goofy-stitch-ssbie5?file=/Indec.cs
+https://replit.com/@AakashPatel15/Pop-pop-login#script.js
+https://replit.com/@AakashPatel15/Pop-pop-login#index.html
+https://replit.com/@AakashPatel15/Pop-pop-login#style.css
